@@ -9,4 +9,4 @@
 - Aug 29th : Passed **ADsP (Advanced Data Semi Professional)** | Korea Data Agency
 - Sept 4th : Passed **Google Analytics Individual Qualification (GAIQ)** | Google Analytics
 - Sep 5th  : Passed **SQLD (SQL Developer)** | Korea Data Agency
-- _Sep 12th_ : Studying **CCA175 - Hadoop & Spark Developer** | Cloudera
+- Sep 14th : Passed **CCA175 - Hadoop & Spark Developer** | Cloudera
